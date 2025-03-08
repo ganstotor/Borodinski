@@ -1,7 +1,7 @@
 {
   "name": "mishka-25",
   "private": true,
-  "description": "Личный проект «Мишка» от HTML Academy",
+  "description": "Borodinski",
   "devDependencies": {
     "@htmlacademy/editorconfig-cli": "1.0.0",
     "stylelint": "13.13.1",
